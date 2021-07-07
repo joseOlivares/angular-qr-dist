@@ -1,0 +1,9 @@
+{
+  "name": "AngularQR-JL",
+  "author": "Jose Luis Olivares",
+  "version": "1.0.0",
+  "description": "Angular QR",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
